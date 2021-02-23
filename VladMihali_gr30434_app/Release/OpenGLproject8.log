@@ -1,0 +1,83 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  Model3D.cpp
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\Model3D.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\Model3D.cpp(61,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\Model3D.cpp(142,22): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  main.cpp
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(274,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(275,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(279,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(282,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(284,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(284,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(414,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\vladm\source\repos\OpenGLproject8\OpenGLproject8\main.cpp(621,20): warning C4018: '<': signed/unsigned mismatch
+main.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+main.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix3fv
+main.obj : error LNK2001: unresolved external symbol _glfwSwapInterval
+main.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+main.obj : error LNK2001: unresolved external symbol _glfwGetKey
+main.obj : error LNK2001: unresolved external symbol _glfwGetFramebufferSize
+main.obj : error LNK2001: unresolved external symbol _glfwTerminate
+main.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+main.obj : error LNK2001: unresolved external symbol _glfwInit
+main.obj : error LNK2001: unresolved external symbol _glfwSetKeyCallback
+main.obj : error LNK2001: unresolved external symbol _glfwSetWindowShouldClose
+main.obj : error LNK2001: unresolved external symbol _glfwSetScrollCallback
+main.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+main.obj : error LNK2001: unresolved external symbol _glfwWindowHint
+main.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol _glfwSetInputMode
+main.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+main.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+main.obj : error LNK2001: unresolved external symbol ___glewFramebufferTexture2D
+main.obj : error LNK2001: unresolved external symbol _glfwDestroyWindow
+main.obj : error LNK2001: unresolved external symbol ___glewDeleteFramebuffers
+main.obj : error LNK2001: unresolved external symbol ___glewGenFramebuffers
+main.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol ___glewBindFramebuffer
+main.obj : error LNK2001: unresolved external symbol _glewExperimental
+main.obj : error LNK2001: unresolved external symbol _glfwSetCursorPosCallback
+main.obj : error LNK2001: unresolved external symbol _glfwSetWindowSizeCallback
+main.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+main.obj : error LNK2001: unresolved external symbol _glewInit@0
+main.obj : error LNK2001: unresolved external symbol ___glewUniform3fv
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewGenerateMipmap
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+Shader.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+Shader.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+Shader.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewBufferData
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+SkyBox.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+C:\Users\vladm\source\repos\OpenGLproject8\Release\OpenGLproject8.exe : fatal error LNK1120: 62 unresolved externals
